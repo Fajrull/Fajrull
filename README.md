@@ -6,7 +6,6 @@ my name is Muhammad Fajrul Khaq . I'm a Front End Web Developer.
 
 - 🌱 I’m currently learning about Full Stack Developer
 - 📫 How to reach me: https://www.linkedin.com/in/muhammad-fajrul-khaq-60795b221/
-- ⚡ Fun fact: Will be Father of a daughter
 
 
 ## 🌐 Socials:
