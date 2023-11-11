@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there 👋
-my name is Muhammad Fajrul Khaq . I'm a Front End Web Developer.
+my name is Muhammad Fajrul Khaq . I'm a Web Developer.
 <br>I live in Yogyakarta, Indonesia. I was born in Bantul, 5 Juni 2002. I'm 20 years old. 
 <br>I'm a Student from STMIK El Rahma Yogyakarta
 
